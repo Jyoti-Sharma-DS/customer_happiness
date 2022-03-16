@@ -17,7 +17,7 @@ The responses for each question and have values from 1 to 5 where the smaller nu
 
 # Exploratory Data analysis Findings:
 
-Based on the exploratory data analysis done we have found below facts about the data set<br>
+Based on the exploratory data analysis done I have found below facts about the data set<br>
 
 i. The dataset is slightly unbalanced in terms of class data distribution.<br>
 ii. 54.76% records belong to class label 1, and 45.24% records belong to class label 0.<br>
